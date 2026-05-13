@@ -1,26 +1,22 @@
 # Francisco Macedo
 
-Full-stack engineer focused on building products.
+Full-stack engineer focused on building products. I work at [Darkmatter AI Labs](https://darkmatter.is) and run formações on AI and product.
 
 - Website: [fmacedo.com](https://fmacedo.com)
 - X/Twitter: [@franbmacedo](https://x.com/franbmacedo)
 - GitHub: [franciscobmacedo](https://github.com/franciscobmacedo)
 
-## Cool Projects
+## Featured
 
 - [Clip Recipe](https://cliprecipe.com) - Extract recipes from videos with AI.
 - [Cutgen](https://cutgen.ai) - Generate haircut previews from a single photo before going to the salon.
-- [Join the DJ](https://jointhedj.com) - Song suggestion platform for DJs and parties.
+- [Quantofica](https://quantofica.pt) - Take-home pay and tax calculator for workers in Portugal.
 - [Streamliter](https://streamliter.fmacedo.com) - Build and deploy Streamlit apps in the browser.
 - [Freelance Simulator](https://freelancept.fmacedo.com) - Estimate net income and taxes for freelancers in Portugal.
 - [Saldo](https://github.com/franciscobmacedo/saldo) - TypeScript library to calculate Portuguese taxes for dependent and independent workers.
 
-## Other Projects
+## Other Tools
 
-### My Own Tools
-
-- [Freelance Simulator](https://freelancept.fmacedo.com) - Estimate net income and tax obligations when working remotely from Portugal.
-- [Saldo](https://github.com/franciscobmacedo/saldo) - Open-source TypeScript library for Portuguese IRS and social security simulations.
 - [Lucide](https://github.com/franciscobmacedo/lucide) - Use Lucide icons directly in Django and Jinja templates.
 - [Neckie](https://getneckie.com) - E-commerce store for neck warmers.
 - [Debtors](https://debtors.fmacedo.com) - Search and filter Portuguese Tax Authority debtors data with export support.
@@ -28,7 +24,7 @@ Full-stack engineer focused on building products.
 - [Bereal Telegram Bot](https://github.com/franciscobmacedo/bereal-telegram-bot) - Telegram bot that sends daily random-time photo reminders, inspired by BeReal.
 - [VLC Remote Control](https://github.com/franciscobmacedo/vlc-remote-control) - Control VLC playback from your phone through a web interface.
 
-### Freelance Projects
+## Freelance Projects
 
 - [Copilapa](https://copilapa.pt) - Printing services platform with an interactive cost calculator.
 - [Intentional Sets](https://intentionalsets.com) - Website for movement coaching resources, classes, and guidance.
@@ -37,7 +33,7 @@ Full-stack engineer focused on building products.
 - [Mussoc](https://mussoc.com) - CMS platform for a Portuguese health and mental-health non-profit.
 - [Olaria e Figurado](https://olariaefigurado.pt) - CMS with pottery artists, museums, and fair information in Portugal.
 
-### Past Projects
+## Past Projects
 
 - [IPS Grow reporting tool](https://ipsgrow-report.org.uk) - Reporting platform to monitor IPS program progress across the UK.
 
