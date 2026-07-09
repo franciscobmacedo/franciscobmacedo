@@ -39,4 +39,4 @@ Full-stack engineer focused on building products. I work at [Darkmatter AI Labs]
 
 ---
 
-If you want the full and always up-to-date list, check [fmacedo.com/projects](https://fmacedo.com/projects/).
+If you want to contact me, email me at [me@fmacedo.com](mailto:me@fmacedo.com).
