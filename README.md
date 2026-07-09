@@ -1,6 +1,6 @@
 # Francisco Macedo
 
-Full-stack engineer focused on building products. I work at [Darkmatter AI Labs](https://darkmatter.is) and run formações on AI and product.
+Full-stack engineer focused on building products. I work at [Darkmatter AI Labs](https://darkmatter.is) and run training courses on AI and product.
 
 - Website: [fmacedo.com](https://fmacedo.com)
 - X/Twitter: [@franbmacedo](https://x.com/franbmacedo)
