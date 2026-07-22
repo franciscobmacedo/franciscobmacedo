@@ -12,10 +12,18 @@ Full-stack engineer focused on building products. I work at [Darkmatter AI Labs]
 - [Our Baby Bee](https://ourbabybee.com) - Choose your baby's name, together.
 - [Clip Recipe](https://cliprecipe.com) - Extract recipes from videos with AI.
 - [Cutgen](https://cutgen.ai) - Generate haircut previews from a single photo before going to the salon.
-- [Quantofica](https://quantofica.pt) - Take-home pay and tax calculator for workers in Portugal.
 - [Streamliter](https://streamliter.fmacedo.com) - Build and deploy Streamlit apps in the browser.
 - [Freelance Simulator](https://freelancept.fmacedo.com) - Estimate net income and taxes for freelancers in Portugal.
 - [Saldo](https://github.com/franciscobmacedo/saldo) - TypeScript library to calculate Portuguese taxes for dependent and independent workers.
+
+## Free Tools
+
+Not open source, just free to use.
+
+- [Quantofica](https://quantofica.pt) - Take-home pay and tax calculator for workers in Portugal.
+- [Parking](https://parking.fmacedo.com) - Save and share where you parked your car.
+- [EMEL Zones](https://emel.fmacedo.com) - Interactive map of EMEL parking zones in Lisbon, to check where you can park.
+- [Toolbelt](https://chromewebstore.google.com/detail/toolbelt/nfmppljpknoigljmhkkhoippodofanfn) - Chrome extension with page utilities: bulk image download, screenshot to text, page to markdown.
 
 ## Other Tools
 
