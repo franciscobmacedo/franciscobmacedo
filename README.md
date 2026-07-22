@@ -8,6 +8,8 @@ Full-stack engineer focused on building products. I work at [Darkmatter AI Labs]
 
 ## Featured
 
+- [Vidextract](https://vidextract.io) - Extract what matters from videos.
+- [Our Baby Bee](https://ourbabybee.com) - Choose your baby's name, together.
 - [Clip Recipe](https://cliprecipe.com) - Extract recipes from videos with AI.
 - [Cutgen](https://cutgen.ai) - Generate haircut previews from a single photo before going to the salon.
 - [Quantofica](https://quantofica.pt) - Take-home pay and tax calculator for workers in Portugal.
